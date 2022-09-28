@@ -4,7 +4,6 @@
 import os
 import re
 import json
-import traceback
 
 from datetime import datetime, timezone, timedelta
 from collections import Counter
@@ -118,16 +117,6 @@ def main():
             content_list.append((ip, host_name,))
         except Exception:
             continue
-
-    if not content:
-        return
-    update_time = datetime.utcnow().astimezone(
-        timezone(timedelta(hours=8))).replace(microsecond=0).isoformat()
-    hosts_content = HOSTS_TEMPLATE.format(content=content, update_time=update_time)
-    has_change = write_file(hosts_content, update_time)
-    if has_change:
-        write_json_file(content_list)
-    print(hosts_content)
 
 
 if __name__ == '__main__':
