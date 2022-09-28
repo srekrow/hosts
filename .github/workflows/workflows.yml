@@ -30,6 +30,14 @@ jobs:
       run: |
         # fetch new ip content
         python fetch_ips.py
+    - name: commit
+      id: commit
+      run: |
+        git config --global user.email github@maddot.net
+        git config --global user.name action_bot
+        git add .
+        git commit -m "update readme content"
+      continue-on-error: true
     - name: Check on failures
       if: steps.commit.outputs.status == 'failure'
       run: exit 1
