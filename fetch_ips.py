@@ -14,7 +14,7 @@ from retry import retry
 RAW_URL = [
     "alive.github.com",
     "live.github.com",
-    "github.githubassets.com",
+#   "github.githubassets.com",
     "central.github.com",
     "desktop.githubusercontent.com",
     "assets-cdn.github.com",
