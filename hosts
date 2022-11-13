@@ -1,19 +1,23 @@
 # Github Host Start
 140.82.112.4                  alive.github.com
-140.82.112.4                  live.github.com
-3.237.69.244                  desktop.githubusercontent.com
+140.82.112.4                  central.github.com
+54.92.208.200                 desktop.githubusercontent.com
 140.82.112.4                  assets-cdn.github.com
+3.90.201.220                  camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-140.82.112.4                  gist.github.com
 185.199.108.153               github.io
-35.175.124.27                 raw.githubusercontent.com
-3.93.23.45                    avatars2.githubusercontent.com
-140.82.112.4                  codeload.github.com
+192.0.66.2                    github.blog
+34.238.170.97                 raw.githubusercontent.com
+44.201.71.179                 avatars3.githubusercontent.com
+52.3.227.162                  avatars2.githubusercontent.com
+52.3.227.162                  avatars0.githubusercontent.com
 72.21.206.80                  github-cloud.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 140.82.112.17                 github.community
+52.224.38.193                 github.dev
+13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-11-13T22:12:11+08:00
+# Update time: 2022-11-14T00:17:54+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Github Host End
