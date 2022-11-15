@@ -1,27 +1,17 @@
 # Github Host Start
-140.82.113.3                  assets-cdn.github.com
-44.200.22.162                 camo.githubusercontent.com
+140.82.113.3                  alive.github.com
+3.236.225.39                  desktop.githubusercontent.com
+3.235.30.98                   camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
 140.82.113.3                  gist.github.com
-140.82.113.3                  github.com
-140.82.113.3                  api.github.com
-44.211.129.124                raw.githubusercontent.com
-44.200.122.83                 favicons.githubusercontent.com
-3.230.158.150                 avatars5.githubusercontent.com
-3.85.98.106                   avatars4.githubusercontent.com
-52.90.79.243                  avatars3.githubusercontent.com
-44.201.71.225                 avatars2.githubusercontent.com
-35.153.105.205                avatars1.githubusercontent.com
-3.236.177.231                 avatars0.githubusercontent.com
+185.199.108.153               github.io
+34.203.193.181                avatars4.githubusercontent.com
 140.82.113.3                  codeload.github.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-140.82.113.3                  collector.github.com
-44.211.129.124                pipelines.actions.githubusercontent.com
-44.200.122.83                 media.githubusercontent.com
-54.152.177.143                cloud.githubusercontent.com
-54.90.255.82                  objects.githubusercontent.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+140.82.112.18                 github.community
 
 
-# Update time: 2022-11-15T18:14:19+08:00
+# Update time: 2022-11-15T20:26:00+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Github Host End
