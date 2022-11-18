@@ -1,30 +1,18 @@
 # Github Host Start
-140.82.113.3                  alive.github.com
-140.82.113.3                  live.github.com
-140.82.113.3                  central.github.com
-3.87.24.10                    desktop.githubusercontent.com
+140.82.114.4                  alive.github.com
+3.91.236.55                   desktop.githubusercontent.com
+34.207.182.145                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-140.82.113.3                  gist.github.com
 185.199.108.153               github.io
-140.82.113.3                  github.com
-140.82.113.3                  api.github.com
-100.24.122.25                 raw.githubusercontent.com
-3.91.48.181                   user-images.githubusercontent.com
-34.226.142.60                 favicons.githubusercontent.com
-44.200.23.75                  avatars5.githubusercontent.com
-3.238.26.116                  avatars4.githubusercontent.com
-34.207.182.145                avatars3.githubusercontent.com
-54.235.27.224                 avatars2.githubusercontent.com
-44.200.23.75                  avatars1.githubusercontent.com
-3.239.6.67                    avatars0.githubusercontent.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-140.82.113.3                  collector.github.com
-44.198.188.242                pipelines.actions.githubusercontent.com
-35.174.105.232                cloud.githubusercontent.com
-54.237.165.189                objects.githubusercontent.com
+34.236.145.248                raw.githubusercontent.com
+54.235.62.247                 user-images.githubusercontent.com
+44.211.26.51                  avatars5.githubusercontent.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+140.82.113.18                 github.community
+13.107.219.40                 vscode.dev
 
 
-# Update time: 2022-11-18T22:13:13+08:00
+# Update time: 2022-11-19T00:18:07+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Github Host End
