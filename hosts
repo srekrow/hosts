@@ -1,15 +1,32 @@
 # Github Host Start
-140.82.113.3                  gist.github.com
-140.82.113.3                  github.com
-44.211.91.106                 raw.githubusercontent.com
-3.86.76.148                   avatars2.githubusercontent.com
-34.229.155.142                avatars1.githubusercontent.com
-35.174.105.232                avatars0.githubusercontent.com
-140.82.113.3                  codeload.github.com
-140.82.113.3                  collector.github.com
-3.235.249.138                 pipelines.actions.githubusercontent.com
+140.82.114.3                  live.github.com
+54.209.72.200                 desktop.githubusercontent.com
+140.82.114.3                  assets-cdn.github.com
+44.204.108.74                 camo.githubusercontent.com
+151.101.1.6                   github.map.fastly.net
+151.101.1.6                   github.global.ssl.fastly.net
+140.82.114.3                  gist.github.com
+185.199.108.153               github.io
+140.82.114.3                  github.com
+140.82.114.3                  api.github.com
+35.175.227.75                 raw.githubusercontent.com
+54.145.233.140                user-images.githubusercontent.com
+44.201.46.178                 favicons.githubusercontent.com
+52.206.3.230                  avatars5.githubusercontent.com
+44.206.249.9                  avatars4.githubusercontent.com
+18.207.159.71                 avatars3.githubusercontent.com
+35.175.227.75                 avatars2.githubusercontent.com
+100.27.34.254                 avatars1.githubusercontent.com
+100.27.34.254                 avatars0.githubusercontent.com
+72.21.206.80                  github-com.s3.amazonaws.com
+72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
+72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.114.3                  collector.github.com
+54.224.191.190                pipelines.actions.githubusercontent.com
+54.145.233.140                media.githubusercontent.com
+44.202.72.235                 objects.githubusercontent.com
 
 
-# Update time: 2022-11-21T00:16:59+08:00
+# Update time: 2022-11-21T04:13:29+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Github Host End
