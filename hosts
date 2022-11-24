@@ -1,27 +1,18 @@
 # Github Host Start
-140.82.113.3                  assets-cdn.github.com
-18.234.186.215                camo.githubusercontent.com
+140.82.113.3                  alive.github.com
+140.82.113.3                  central.github.com
+100.25.248.220                camo.githubusercontent.com
 151.101.1.6                   github.map.fastly.net
-140.82.113.3                  gist.github.com
-140.82.113.3                  github.com
-140.82.113.3                  api.github.com
-18.207.252.114                raw.githubusercontent.com
-54.227.19.64                  favicons.githubusercontent.com
-54.227.20.153                 avatars5.githubusercontent.com
-54.205.157.49                 avatars4.githubusercontent.com
-34.229.86.200                 avatars3.githubusercontent.com
-3.85.76.211                   avatars2.githubusercontent.com
-44.200.135.234                avatars1.githubusercontent.com
-3.90.191.39                   avatars0.githubusercontent.com
-140.82.113.3                  codeload.github.com
-72.21.206.80                  github-production-release-asset-2e65be.s3.amazonaws.com
-72.21.206.80                  github-production-user-asset-6210df.s3.amazonaws.com
-72.21.206.80                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-140.82.113.3                  collector.github.com
-54.145.222.182                pipelines.actions.githubusercontent.com
-54.161.195.124                cloud.githubusercontent.com
+185.199.108.153               github.io
+3.85.76.211                   raw.githubusercontent.com
+44.204.80.164                 avatars4.githubusercontent.com
+34.237.137.65                 avatars1.githubusercontent.com
+72.21.206.80                  github-cloud.s3.amazonaws.com
+185.199.108.153               githubstatus.com
+140.82.114.18                 github.community
+13.107.213.51                 vscode.dev
 
 
-# Update time: 2022-11-24T09:06:40+08:00
+# Update time: 2022-11-24T10:50:47+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Github Host End
